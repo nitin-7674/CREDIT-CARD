@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CREDIT-CARD/static/css/main.c65e1f4a.css",
+    "main.js": "/CREDIT-CARD/static/js/main.210b6ab0.js",
+    "index.html": "/CREDIT-CARD/index.html",
+    "main.c65e1f4a.css.map": "/CREDIT-CARD/static/css/main.c65e1f4a.css.map",
+    "main.210b6ab0.js.map": "/CREDIT-CARD/static/js/main.210b6ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c65e1f4a.css",
+    "static/js/main.210b6ab0.js"
+  ]
+}
